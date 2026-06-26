@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1046-last-stone-weight) |
 | [2187-minimum-time-to-complete-trips](https://github.com/alokkumar-05/LeetCodePractice/tree/master/2187-minimum-time-to-complete-trips) |
@@ -52,17 +53,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

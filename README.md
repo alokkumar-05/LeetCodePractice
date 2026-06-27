@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->

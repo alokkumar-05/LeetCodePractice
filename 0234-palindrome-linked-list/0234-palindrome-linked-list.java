@@ -9,19 +9,44 @@
  * }
  */
 class Solution {
-    ListNode curr;
-    public boolean solve(ListNode head){
-        if(head==null){
+    public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) {
             return true;
         }
-        if(!solve(head.next)|| head.val!=curr.val){
-            return false;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
         }
-        curr=curr.next;
+
+        ListNode start = reverse(head, slow);
+        ListNode secondHalf = (fast != null) ? slow.next : slow;
+        ListNode p2 = secondHalf;
+
+        while (start != null && p2 != null) {
+            if (start.val != p2.val) {
+                return false;
+            }
+            start = start.next;
+            p2 = p2.next;
+        }
         return true;
+
     }
-    public boolean isPalindrome(ListNode head) {
-        curr =head;
-        return solve(head);
+
+    private ListNode reverse(ListNode head, ListNode end) {
+        
+        ListNode curr = head;
+        ListNode prev = null;
+
+        while ( curr != end) {
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        return prev;
     }
 }

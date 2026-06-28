@@ -21,27 +21,27 @@ class Solution {
             slow = slow.next;
         }
 
-        ListNode start = reverse(head, slow);
         ListNode secondHalf = (fast != null) ? slow.next : slow;
-        ListNode p2 = secondHalf;
+        ListNode p1 = head;
+        ListNode p2 = reverse(slow);
 
-        while (start != null && p2 != null) {
-            if (start.val != p2.val) {
+        while (p1 != null && p2 != null) {
+            if (p1.val != p2.val) {
                 return false;
             }
-            start = start.next;
+           p1 = p1.next;
             p2 = p2.next;
         }
         return true;
 
     }
 
-    private ListNode reverse(ListNode head, ListNode end) {
+    private ListNode reverse(ListNode head) {
         
         ListNode curr = head;
         ListNode prev = null;
 
-        while ( curr != end) {
+        while ( curr != null) {
             ListNode temp = curr.next;
             curr.next = prev;
             prev = curr;

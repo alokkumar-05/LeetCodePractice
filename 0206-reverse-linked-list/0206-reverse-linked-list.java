@@ -14,15 +14,11 @@ class Solution {
             return head ;
         }
 
-        ListNode prev = null;
-        ListNode curr = head;
+        ListNode last = reverseList(head.next);
+        head.next.next = head;
+        head.next = null;
 
-        while(curr!=null){
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-        return prev;
+        return last;
+
     }
 }

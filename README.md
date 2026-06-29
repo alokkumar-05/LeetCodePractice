@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1046-last-stone-weight) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2187-minimum-time-to-complete-trips](https://github.com/alokkumar-05/LeetCodePractice/tree/master/2187-minimum-time-to-complete-trips) |
 ## Binary Search
 |  |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->

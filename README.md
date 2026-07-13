@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/alokkumar-05/LeetCodePractice/tree/master/2187-minimum-time-to-complete-trips) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0633-sum-of-square-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [3620-network-recovery-pathways](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |

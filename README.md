@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1046-last-stone-weight) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |

@@ -1,15 +1,10 @@
 class Solution {
+    static class Pair {
+        int r, c;
 
-    // Helper class to store coordinates and distance
-    private static class Pair {
-        int row;
-        int col;
-        int dis;
-
-        Pair(int row, int col, int dis) {
-            this.row = row;
-            this.col = col;
-            this.dis = dis;
+        Pair(int r, int c) {
+            this.r = r;
+            this.c = c;
         }
     }
 
@@ -17,53 +12,42 @@ class Solution {
         int n = mat.length;
         int m = mat[0].length;
 
-        // Matrix to store distance of nearest 0
-        int[][] distanceMat = new int[n][m];
+        Queue<Pair> q = new LinkedList<>();
+        boolean[][] visited = new boolean[n][m];
 
-        // Visited matrix to track processed cells
-        boolean[][] vis = new boolean[n][m];
-
-        // Queue for BFS traversal
-        Queue<Pair> q = new ArrayDeque<>();
-
-        // Push all 0s into the queue as starting points.
-        // Each 0 starts BFS with distance 0; its neighbors will have distance +1.
-        for (int row = 0; row < n; row++) {
-            for (int col = 0; col < m; col++) {
-                if (mat[row][col] == 0) {
-                    q.offer(new Pair(row, col, 0));
-                    vis[row][col] = true;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (mat[i][j] == 0) {
+                    q.add(new Pair(i, j));
+                    visited[i][j] = true;
                 }
             }
         }
 
-        // Possible 4 directions (down, right, up, left)
-        int[][] directions = { {1, 0}, {0, 1}, {-1, 0}, {0, -1} };
+        int[][] dirs = { { -1, 0 }, { 1, 0 }, { 0, -1 }, { 0, 1 } };
+        int dist = 1;
 
-        // BFS traversal — process all cells layer by layer
         while (!q.isEmpty()) {
-            Pair curr = q.poll();
-            int row = curr.row;
-            int col = curr.col;
-            int dist = curr.dis;
+            int size = q.size();
+            for (int k = 0; k < size; k++) {
+                Pair curr = q.poll();
+                int r = curr.r;
+                int c = curr.c;
 
-            // Assign the distance value to the result matrix
-            distanceMat[row][col] = dist;
+                for (int[] dir : dirs) {
+                    int nrow = r + dir[0];
+                    int ncol = c + dir[1];
 
-            // Explore all 4 neighboring directions
-            for (int[] dis : directions) {
-                int nrow = row + dis[0];
-                int ncol = col + dis[1];
-
-                // Check for valid cell and if not visited yet
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && !vis[nrow][ncol]) {
-                    vis[nrow][ncol] = true; // Mark as visited to avoid reprocessing
-                    q.offer(new Pair(nrow, ncol, dist + 1)); // Enqueue neighbor with distance +1
+                    if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && !visited[nrow][ncol]) {
+                        mat[nrow][ncol] = dist;
+                        visited[nrow][ncol] = true;
+                        q.add(new Pair(nrow, ncol));
+                    }
                 }
             }
+            dist++;
         }
 
-        // Return final distance matrix
-        return distanceMat;
+        return mat;
     }
 }

@@ -1,16 +1,16 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        
         int n = grid.length;
         int m = grid[0].length;
 
-        boolean[][] isConnected = new boolean[n][m];
+        boolean[][] visited = new boolean[n][m];
+
         int islands = 0;
 
-        for(int i = 0; i<n ; i++){
-            for(int j = 0 ; j<m;j++){
-                if(grid[i][j]=='1' && !isConnected[i][j]){
-                    dfs(grid,isConnected,i,j);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (!visited[i][j] && grid[i][j]=='1') {
+                    dfs(grid, visited, i, j);
                     islands++;
                 }
             }
@@ -18,21 +18,23 @@ class Solution {
         return islands;
     }
 
-    private void dfs(char[][] grid, boolean[][] isConnected, int row, int col) {
+    private void dfs(char[][] grid, boolean[][] visited, int row, int col) {
         int n = grid.length;
         int m = grid[0].length;
 
-        if (row < 0 || row >= n || col < 0 || col >=m) {
-            return;
-        }
-        if (grid[row][col] == '0'|| isConnected[row][col]) {
-            return;
-        }
-        isConnected[row][col] = true;
+        int[] drow = {1,0,-1,0};
+        int[] dcol = {0,1,0,-1};
 
-        dfs(grid, isConnected, row + 1, col);
-        dfs(grid, isConnected, row - 1, col);
-        dfs(grid, isConnected, row, col + 1);
-        dfs(grid, isConnected, row, col - 1);
+        visited[row][col]=true;
+
+        for(int i = 0 ; i<4;i++){
+            int nrow = row+drow[i];
+            int ncol = col+dcol[i];
+
+            if(nrow>=0 && nrow<n && ncol>=0 && ncol < m && !visited[nrow][ncol] && grid[nrow][ncol]=='1'){
+                dfs(grid,visited,nrow,ncol);
+            }
+        }
+
     }
 }

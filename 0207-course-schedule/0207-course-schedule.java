@@ -12,36 +12,34 @@ class Solution {
             adj.get(prereq).add(course);
         }
 
-        int[] indegree = new int[numCourses];
-        for(int u = 0; u<numCourses;u++){
-            for(int v:adj.get(u)){
-                indegree[v]++;
-            }
-        }
+        boolean[] visited = new boolean[numCourses];
+        boolean[] inRecursion = new boolean[numCourses];
 
-        Queue<Integer> q = new ArrayDeque<>();
-        int nodes =0;
-
-        for(int v=0 ; v<numCourses ; v++){
-            if(indegree[v]==0){
-                q.add(v);
-                nodes++;
-            }
-        }
-
-        while(!q.isEmpty()){
-            int u = q.poll();
-
-            for(int v : adj.get(u)){
-                indegree[v]--;
-
-                if(indegree[v]==0){
-                    q.add(v);
-                    nodes++;
+        for(int i =0 ; i<numCourses;i++){
+            if(!visited[i]){
+                if(hasCycle(adj,visited,inRecursion,i)){
+                    return false;
                 }
             }
-
         }
-       return nodes==numCourses;
+        return true;
+    }
+    private boolean hasCycle(List<List<Integer>> adj, boolean[] visited,boolean[] inRecursion,int node){
+        visited[node]=true;
+        inRecursion[node]=true;
+
+        for(int nei : adj.get(node)){
+            if(!visited[nei]){
+                if(hasCycle(adj,visited,inRecursion,nei)){
+                    return true;
+                }
+            }
+            else if(inRecursion[nei]){
+                return true;
+            }
+        }
+
+        inRecursion[node]=false;
+        return false;
     }
 }

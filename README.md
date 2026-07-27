@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3536-maximum-product-of-two-digits) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1979-find-greatest-common-divisor-of-array) |

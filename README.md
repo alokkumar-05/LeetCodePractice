@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/alokkumar-05/LeetCodePractice/tree/master/2187-minimum-time-to-complete-trips) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3536-maximum-product-of-two-digits) |
 ## Quickselect
 |  |

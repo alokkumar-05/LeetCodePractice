@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
@@ -249,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

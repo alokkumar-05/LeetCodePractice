@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [3620-network-recovery-pathways](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3620-network-recovery-pathways) |
@@ -263,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

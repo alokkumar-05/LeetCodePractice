@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

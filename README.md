@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |

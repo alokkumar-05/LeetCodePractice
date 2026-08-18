@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |

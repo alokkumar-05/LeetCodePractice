@@ -1,18 +1,19 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        int i = 0;
-        int j = matrix[0].length - 1;
+        int n = matrix.length;
+        int m = matrix[0].length;
+        int start = 0;
+        int end = m * n - 1;
 
-        while (i < matrix.length && j >= 0) {
-            if (matrix[i][j] == target) {
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            int midVal = matrix[mid/m][mid%m];
+            if (midVal == target)
                 return true;
-            }
-            if (matrix[i][j] < target) {
-                i++;
-            } else {
-                j--;
-            }
-
+            if (midVal < target)
+                start = mid + 1;
+            else
+                end = mid - 1;
         }
         return false;
     }

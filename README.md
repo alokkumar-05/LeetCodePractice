@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |

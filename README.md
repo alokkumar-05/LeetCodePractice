@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
@@ -295,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

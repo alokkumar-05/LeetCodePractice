@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |

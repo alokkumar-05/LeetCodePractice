@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -345,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

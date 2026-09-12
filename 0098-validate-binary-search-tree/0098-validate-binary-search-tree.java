@@ -18,23 +18,17 @@ class Solution {
         if(root==null){
             return true;
         }
-        ArrayList<Integer> arr = new ArrayList<>();
-        inorder(root,arr);
-
-        for(int i = 1 ; i<arr.size();i++){
-            if(arr.get(i)<=arr.get(i-1)){
-                return false;
-            }
-        }
-        return true;
+        return isValid(root, Long.MIN_VALUE , Long.MAX_VALUE);
+        
         
     }
-    private void inorder(TreeNode root , ArrayList<Integer> arr){
+    private boolean isValid(TreeNode root, long minVal , long maxVal){
         if(root==null){
-            return;
+            return true;
         }
-        inorder(root.left ,arr);
-        arr.add(root.val);
-        inorder(root.right, arr);
+        if(root.val<=minVal || root.val>= maxVal){
+            return false;
+        }
+        return isValid(root.left , minVal, root.val) && isValid(root.right, root.val, maxVal);
     }
 }

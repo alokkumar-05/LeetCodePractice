@@ -18,28 +18,17 @@ class Solution {
         if(root==null){
             return -1;
         }
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-        Queue<TreeNode> q = new ArrayDeque<>();
-        q.add(root);
-
-        while(!q.isEmpty()){
-            TreeNode node = q.poll();
-            pq.add(node.val);
-
-            if(pq.size()>k){
-                pq.poll();
-            }
-
-            if(node.left!=null){
-              q.add(node.left);
-            }
-            if(node.right!=null){
-                q.add(node.right);
-            }
+        List<Integer> list = new ArrayList<>();
+        inorder(root,list);
+        return list.get(k-1);
+        
+    }
+    private void inorder(TreeNode root, List<Integer> list){
+        if(root==null){
+            return;
         }
-
-        
-        return pq.poll();
-        
+        inorder(root.left,list);
+        list.add(root.val);
+        inorder(root.right,list);
     }
 }

@@ -12,41 +12,19 @@ class Solution {
         if (root == null) {
             return null;
         }
-        List<TreeNode> l1 = new ArrayList<>();
-        List<TreeNode> l2 = new ArrayList<>();
-        path(root,l1,p);
-        path(root,l2,q);
-
-        int n = Math.min(l1.size(),l2.size());
-
-        TreeNode res= null;
-
-        for(int i = 0 ; i<n ; i++){
-            if(l1.get(i)==l2.get(i)){
-                res = l1.get(i);
-            }
-            else break;
+        if(root==p || root==q){
+            return root;
         }
-        return res;
-    }
-
-    private boolean path(TreeNode root, List<TreeNode> list, TreeNode tar) {
-        if (root == null) {
-            return false;
+        
+        TreeNode left = lowestCommonAncestor(root.left, p , q);
+        TreeNode right = lowestCommonAncestor(root.right,p ,q);
+          
+        if(left==null){
+            return right;
         }
-
-        list.add(root);
-        if (root == tar) {
-            return true;
+        if(right==null){
+            return left;
         }
-        boolean left = path(root.left, list, tar);
-        boolean right = path(root.right, list, tar);
-
-        if (left || right) {
-            return true;
-        }
-        list.remove(list.size()-1);
-        return false;
-
+        return root;
     }
 }

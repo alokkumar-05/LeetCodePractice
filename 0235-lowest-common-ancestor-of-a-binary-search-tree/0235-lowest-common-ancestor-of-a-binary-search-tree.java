@@ -13,11 +13,8 @@ class Solution {
         List<TreeNode> l1= new ArrayList<>();
         List<TreeNode> l2= new ArrayList<>();
 
-        List<TreeNode> h1= new ArrayList<>();
-        List<TreeNode> h2= new ArrayList<>();
-
-        helper(root,l1,p,h1);
-        helper(root,l2,q,h2);
+        helper(root,l1,p);
+        helper(root,l2,q);
 
         TreeNode ans = null;
         int n = Math.min(l1.size(), l2.size());
@@ -31,20 +28,21 @@ class Solution {
         }
         return ans;
     }
-    private void helper(TreeNode root , List<TreeNode> list , TreeNode tar,List<TreeNode> h){
+    private boolean  helper(TreeNode root , List<TreeNode> list, TreeNode tar){
         if(root==null){
-            return ;
+            return false;
         }
-        h.add(root);
+        list.add(root);
         if(root==tar){
-           // list.clear();
-            list.addAll(h);
-            return;
+            return true;
         }
-       
-        helper(root.left,list,tar,h);
-        helper(root.right,list,tar,h);
-        h.remove(h.size()-1);
+        boolean left = helper(root.left, list , tar);
+        boolean right = helper(root.right, list , tar);
 
+        if(left || right){
+            return true;
+        }
+        list.remove(list.size()-1);
+        return false;
     }
 }

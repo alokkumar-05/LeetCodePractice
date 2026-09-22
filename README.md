@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3498-reverse-degree-of-a-string) |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3498-reverse-degree-of-a-string) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->

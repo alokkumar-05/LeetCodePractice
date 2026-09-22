@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0130-surrounded-regions) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0100-same-tree) |

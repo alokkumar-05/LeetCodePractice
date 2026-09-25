@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 ## Number Theory
 |  |

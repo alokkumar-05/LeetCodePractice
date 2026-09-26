@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |

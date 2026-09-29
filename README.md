@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
@@ -259,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -446,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0212-word-search-ii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

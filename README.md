@@ -455,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0743-network-delay-time) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->

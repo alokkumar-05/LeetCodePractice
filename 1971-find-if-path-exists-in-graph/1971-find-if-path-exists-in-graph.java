@@ -13,23 +13,25 @@ class Solution {
             adj.get(v).add(u);
         }
         boolean[] visited = new boolean[n];
+        Queue<Integer> q = new ArrayDeque<>();
+        q.add(source);
+        visited[source]=true;
 
-        return dfs(adj,visited,source , destination );
-    }
-
-    private boolean dfs(List<List<Integer>> adj ,boolean[] visited, int node, int destination){
-       visited[node]= true;
-       if(node==destination){
-        return true;
-       }
-
-       for(int nei : adj.get(node)){
-          if(!visited[nei]){
-            if(dfs(adj,visited,nei , destination)){
+        while(!q.isEmpty()){
+            int node = q.poll();
+            if(node==destination){
                 return true;
             }
-          }
-       }
+
+            for(int nei : adj.get(node)){
+                if(!visited[nei]){
+                    visited[nei]=true;
+                    q.add(nei);
+                }
+            }
+        }
+
+       
        return false;
     }
 }

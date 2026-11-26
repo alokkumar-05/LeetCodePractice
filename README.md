@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
+| [1971-find-if-path-exists-in-graph](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/alokkumar-05/LeetCodePractice/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/alokkumar-05/LeetCodePractice/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/alokkumar-05/LeetCodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Number Theory
 |  |
 | ------- |
